@@ -5,7 +5,7 @@ Programming Competition in Java (student project)
 
 ###Linux
 
-`sudo add-apt-repository ppa:webupd8team/java - Add repository  
+`sudo add-apt-repository ppa:webupd8team/java` - Add repository  
 `sudo apt-get update` - Update repository  
 `sudo apt-get install oracle-java8-installer` - Install Java JDK 8
 
