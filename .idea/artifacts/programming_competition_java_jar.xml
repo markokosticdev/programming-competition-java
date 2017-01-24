@@ -1,0 +1,11 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="programming-competition-java:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/programming_competition_java_jar</output-path>
+    <root id="archive" name="programming-competition-java.jar">
+      <element id="module-output" name="programming-competition-java" />
+      <element id="extracted-dir" path="$PROJECT_DIR$/lib/sqlite-jdbc.jar" path-in-jar="/" />
+      <element id="library" level="project" name="swt-debug-linux" />
+      <element id="library" level="project" name="swt-linux" />
+    </root>
+  </artifact>
+</component>
